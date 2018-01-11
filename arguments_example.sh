@@ -3,7 +3,7 @@
 # Passing arguments to a function
 
 print_something() {
-	echo Hello $1 $2
+	echo Hello $1 $2 $3
 }
 
-print_something Mars Saturn
+print_something Mars Saturn Callout
