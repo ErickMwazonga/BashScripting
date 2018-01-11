@@ -7,3 +7,5 @@ print_something() {
 }
 
 print_something Mars Saturn
+
+# Sanity check
